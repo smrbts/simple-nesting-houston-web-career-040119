@@ -84,7 +84,6 @@ programmer_hash[:yukihiro_matsumoto] =
   known_for: "Ruby",
   language: ["LISP", "C"]
 }
-    
 end
 
 def changing_alan
